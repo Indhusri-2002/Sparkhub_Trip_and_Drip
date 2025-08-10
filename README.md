@@ -10,7 +10,7 @@ From aesthetic getaways to curated style ideas, Trip and Drip transforms your cu
 ## Live Demo
 
 You can try the app here:  
-[https://trip-and-drip.vercel.app/](https://trip-and-drip-seven.vercel.app/)
+[https://trip-and-drip-seven.vercel.app/](https://trip-and-drip-seven.vercel.app/)
 
 ## Features
 
