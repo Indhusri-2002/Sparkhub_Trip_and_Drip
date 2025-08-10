@@ -4,10 +4,10 @@ const Footer = () => (
   <footer className="footer">
     <p>© {new Date().getFullYear()} Trip & Drip. </p>
     <p>Made with style.</p>
-    <div>Powered by Qloo & Gemini</div>
+    <div>Powered by Gemini</div>
 
     <div className="social-links">
-      <a href="https://github.com/AvinashYerra/trip-and-drip" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Indhusri-2002/Trip_and_Drip" target="_blank" rel="noopener noreferrer">
         <Image src="/icons/github.png" alt="GitHub" width={30} height={30} />
       </a>
     </div>
